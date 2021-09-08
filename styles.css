@@ -1,0 +1,24 @@
+h1 {
+  color: brown;
+  border: ;
+}
+
+body {
+  font-family: 'Montserrat';
+  font-size: 18px;
+}
+
+.container {
+  background-color: beige;
+}
+
+input{
+  width:500;
+  background-color:rgb(247, 243, 242);
+}
+
+#btn{
+  width: 150;
+}
+
+
