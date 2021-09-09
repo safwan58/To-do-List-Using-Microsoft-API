@@ -1,6 +1,6 @@
 h1 {
   color: brown;
-  border: ;
+  border: solid 1px white;
 }
 
 body {
@@ -20,5 +20,16 @@ input{
 #btn{
   width: 150;
 }
+ul{
+  list-style-type: none;
+}
+
+.inpcls{
+  margin:0;
+  display: inline;
+}
+
+
+
 
 
